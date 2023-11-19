@@ -47,9 +47,9 @@ I'm graduating <img src="https://github.com/antoniopantoja/antoniopantoja/blob/m
 
 ## <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_JD-12_2259880.svg" width="60"> My Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fernand0Souza&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniopantoja&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true"/>
                          
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernand0Souza&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true&hide=css,html,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantoja&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true&hide=css,html,jupyter%20notebook)
 <br>
 <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/github-user-contribution.svg">
 
