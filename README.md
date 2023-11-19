@@ -1,7 +1,7 @@
 # Hello there ! <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_obiwan-kenobi_1626629.svg" width="50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]()
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:professorfernandopantoj@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:)
 
 ## About me:
 
