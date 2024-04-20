@@ -5,7 +5,7 @@
 
 ## About me:
 
-I'm graduating <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_astronaut_5267458.svg" width="40"> Post Graduation applied artificial intelligence to federal university of parana - UFPR <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/nerd.png" width="45">  I have a degree in Computer Science
+I'm graduating <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_astronaut_5267458.svg" width="40"> Post Graduation applied artificial intelligence to federal university of parana - UFPR <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/nerd.png" width="45">  I have a degree in Computer Science to Faculty of Education in Pará - FAPEN
 <br />
 - Problem Lover <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40">
 - Innovation Addicted <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40">
