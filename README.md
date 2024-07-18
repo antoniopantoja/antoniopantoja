@@ -5,12 +5,12 @@
 
 ## About me:
 
-### Educação:<img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-baby-yoda.svg" width="30">
+### Education:<img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-baby-yoda.svg" width="30">
 
-- Pós-Graduação em Inteligência Artificial Aplicada pela Universidade Federal do Paraná - UFPR 
-- Graduação em Ciência da Computação pela Faculdade de Educação do Pará - FAPEN 
+- Postgraduate in Applied Artificial Intelligence from the Federal University of Paraná - UFPR
+- Degree in Computer Science from the Faculty of Education of Pará - FAPEN 
 
-### Minha Missão: <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-star-wars-falcão-do-milênio-96.png" width="30">
+### My mission: <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-star-wars-falcão-do-milênio-96.png" width="30">
 - Like a true technology Jedi 
 , bring balance to the strength of technology <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-yoda.svg" width="30">
 - Face complex challenges and find innovative solutions <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-r2-d2.svg" width="30">
