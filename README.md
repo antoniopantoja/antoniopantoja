@@ -39,6 +39,21 @@ When I'm not coding, you can find me spending quality time with my family or cat
 
 ---
 
+## 💻 My Setup
+
+<img align="left" src="https://github.com/user-attachments/assets/4a0bb05d-f9bb-40da-87b8-ad1df8809099" width="250" height="250"/>
+<img align="left" src="https://github.com/user-attachments/assets/cb35012b-99b9-40e6-86c3-102069caaf53" width="250" height="250"/>
+
+This is my command center! 🚀 It’s where I code create, and sometimes just vibe with some good music. Everything here is set up to keep me comfy and productive whether I’m diving into a new project or just tweaking some code.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## 💼 Featured Projects
 
 ### 🎟️ [VoucherBusinessApp](https://github.com/antoniopantoja/voucherBusinessApp)
