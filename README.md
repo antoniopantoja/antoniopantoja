@@ -2,7 +2,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=antoniopantoja&color=blueviolet)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/antoniopantoja/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/antoniopantoja/)](https://github.com/antoniopantoja/)
 
 🎓 Software Engineer | 🤖 AI Enthusiast | 💼 .NET & Java Developer
