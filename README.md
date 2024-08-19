@@ -1,61 +1,98 @@
-# <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-darth-vader.svg" width="50"><img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-sabre-de-luz.svg" width="50">Hello there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> <br/> my name Pantoja <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_obiwan-kenobi_1626629.svg" width="50">
+# 👋 Hi there! I'm Antônio Pantoja
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]()
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:)
 
-## About me:
+![Profile Views](https://komarev.com/ghpvc/?username=antoniopantoja&color=blueviolet)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/antoniopantoja/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/antoniopantoja/)](https://github.com/antoniopantoja/)
 
-### Education:<img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-baby-yoda.svg" width="30">
+🎓 Software Engineer | 🤖 AI Enthusiast | 💼 .NET & Java Developer
 
-- Postgraduate in Applied Artificial Intelligence from the Federal University of Paraná - UFPR
-- Degree in Computer Science from the Faculty of Education of Pará - FAPEN 
+---
 
-### My mission: <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-star-wars-falcão-do-milênio-96.png" width="30">
-- Like a true technology Jedi 
-, bring balance to the strength of technology <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-yoda.svg" width="30">
-- Face complex challenges and find innovative solutions <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-r2-d2.svg" width="30">
-- Protect against the dark side of the cybersecurity force <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/icons8-soldado-star-wars.svg" width="30">
+## 🌌 About Me
 
-## <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_EXPAND_ICONFINDER_COLOR_TECHNOLOGY-01_3970121.svg" width="60"> Technologies:
+I'm a passionate software developer with over 8 years of experience, specializing in backend development using .NET and Java. My journey has led me to work on a wide range of projects, from financial software to AI-driven solutions. I’m also exploring new horizons in AI and machine learning, combining my technical skills with innovative technologies to solve complex problems.
 
-  - Front-End: <div>
-    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> 
-    <img align="left" alt="Javascript" width="26px" src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/javascript-js-logo-2949701702-seeklogo.com.png"/> 
-    <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-    <img align="left" alt="VUE" width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/> 
-    <img align="left" alt="VUE" width="26px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/> 
-    </div>
-  
-  <br/>
-  
-  - Back-End: <div>
-    <img align="left" alt="NodeJS" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> 
-    <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
-    <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-    <img align="left" alt="Spring" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-    <img align="left" alt="Postgres" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/> 
-    <img align="left" alt="Postgres" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"/> 
-   </div>
-   
-   <br/>
-  
-  - Mobile: <div>
-    <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-    <img align="left" alt="Swift" width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
-    <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-    <img align="left" alt="SalesForce" width="26px" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg"/>
-   </div>
+When I'm not coding, you can find me spending quality time with my family or catching up on the latest in AI research.
 
-<br/>
+---
 
-## <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/iconfinder_JD-12_2259880.svg" width="60"> My Stats:
+## 🚀 Skills & Technologies
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniopantoja&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true"/>
-                         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantoja&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true&hide=css,html,jupyter%20notebook)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+- **Languages:** C#, Java, Python, SQL
+- **Web Development:** ASP.NET Core, Java Spring, RESTful APIs
+- **Cloud Services:** AWS (S3, RDS, EC2, ECS, Lambda)
+- **Databases:** PostgreSQL, MongoDB, SQL Server
+- **DevOps:** Docker, Kubernetes, Jenkins, CI/CD
+- **AI & Bots:** IBM Watson, ChatGPT
+- **Front-End:** Angular, JavaScript, TypeScript
+
+---
+
+## 💼 Featured Projects
+
+### 🎟️ [VoucherBusinessApp](https://github.com/antoniopantoja/voucherBusinessApp)
+The Voucher Business App is a comprehensive solution designed to manage voucher distribution and redemption for businesses. Built with a focus on efficiency and user experience, this app allows businesses to create, distribute, and track vouchers easily, ensuring seamless transactions and customer satisfaction. The project leverages modern web technologies to provide a scalable and robust platform.
+
+Key Features:
+
+Voucher Creation: Generate various types of vouchers tailored to different business needs.
+Distribution Management: Efficiently manage the distribution of vouchers to customers.
+Redemption Tracking: Track voucher usage and redemptions in real-time.
+Tech Stack.
+
+### 💳 [FinancialPayAPI](https://github.com/antoniopantoja/FinancialPayAPI)
+This is a project I developed to showcase my skills in handling financial payments, including boleto and PIX. The goal is to demonstrate how to integrate these payment systems securely and efficiently.
+
+Key Features:
+
+Boleto Payments: Integration to generate and manage boletos, making transaction management easier.
+PIX: Support for instant payments via the PIX system, enabling fast and secure transactions.
+Transaction Monitoring: Features to track and log all transactions made.
+Tech Stack:
+
+Java Backend: I used Java to ensure a robust and reliable backend.
+Security: Focused on implementing key security protocols to protect financial data.
+Scalability: The application is designed to handle a high volume of transactions, adapting to growing operations.
+
+### 🤖 [Witterbot](https://github.com/antoniopantoja/witterbot)
+An AI-powered chatbot developed using Python and IBM Watson, designed to handle customer queries in real-time.
+
+---
+
+## 📊 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoniopantoja&bg_color=45,fc466b,3f5efb&text_color=ffffff&count_private=true&show_icons=true&line_height=40&icon_color=ffcc00&title_color=00ffcc&hide_border=true"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniopantoja&bg_color=45,fc466b,3f5efb&text_color=ffffff&count_private=false&icon_color=ffcc00&title_color=00ffcc&hide_border=true&hide=css,html,jupyter%20notebook)
+
+---
+
+## 🎯 Current Focus
+
+- 🌱 Exploring advanced AI techniques in financial markets.
+- 🧠 Enhancing my knowledge in Kubernetes and cloud-native applications.
+- 📚 Specializing in Applied Artificial Intelligence at UFPR.
+
+---
+
+## 📫 How to reach me
+
+- LinkedIn: [linkedin.com/in/antoniopantoja](https://www.linkedin.com/in/)
+- Email:  antoniopantojasr@gmail.com
+
+---
 <br>
 <img src="https://github.com/antoniopantoja/antoniopantoja/blob/main/assets/github-user-contribution.svg">
-
-
+<br>
+*“In the middle of difficulty lies opportunity.” – Albert Einstein*
